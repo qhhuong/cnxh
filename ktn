@@ -1,0 +1,77 @@
+########## DẠNG 1: ĐÀO TẠO CÔNG NHÂN KĨ THUẬT
+Bài 1: 
+= (Sản lượng A * Lượng LĐ hao phí A * hệ số tăng giảm) 
++ (Sản lượng B * Lượng LĐ hao phí B * hệ số tăng giảm)
+-------------------------------------------------------
+  Hệ số hoàn thành dự kiến * Số ngày * Số giờ
+
+Bài 2:
+1. Tính chỉ số máy móc thiết bị = Số máy kế hoạch/ Số máy báo cáo
+2. Tính chỉ số ca làm việc:  (Số máy kế hoạch X ca) . (số ca) + ….. / Số máy kế hoạch : (Số máy báo cáo X ca) . (số ca) + … / Số máy báo cáo
+3. Tính chỉ số NSLĐ : X% → 100% + X% 
+4. Tính số CN tb: (Số CN hiện có) . (Chỉ số máy móc thiết bị) . (Chỉ số ca làm việc) / Chỉ số NSLĐ
+5. Số CN bổ sung thời kì kế hoạch = NCTB - CN hiện có’
+
+Bài 3:  Thời gian thu hồi chi phí đào tạo**
+
+1. Tính tổng chi phí đào tạo = (NCtb) x (Chi phí đào tạo mỗi CN)
+2. Tổng thu nhập thuần túy của tổng số CN: (Số CN) x (Thu nhập thuần túy)
+3. Thời gian thu hồi chi phí đào tạo
+
+= Tổng chi phí đào tạo / Tổng thu nhập thuần túy
+#################### DẠNG 2: NĂNG SUẤT LAO ĐỘNG
+Bài 1: Tính chỉ tiêu giá trị và tính theo sản phẩm quy đổi
+1. Tính T = Số ngày * Số giờ * Số người
+2. Tính chỉ tiêu giá trị
+= (Số lượng A * giá tiền A) + (Số lượng B * giá tiền B) + …/ T
+
+1. Đổi tất cả về 1 loại
+Vd: B làm mất 5 tiếng, coi đó là 1 đơn vị → 34000 * 1
+A làm mất 10 tiếng → 25000 * (10/5)
+C làm mất 15 tiếng → 18000 * (15/5)
+1. Tính NSLĐ theo chỉ tiêu hiện vật theo B
+= (Số lượng A * (10/5) + Số lượng B * 1 + Số lượng C * (15/3))/ T
+
+Bài 2: Mức độ thực hiện kế hoạch năng suất lao động
+1. Tính NSLĐ Kế hoạch:
+= (Số lượng sp A* hệ số) + (Số lượng sp B * hệ số) + ….. / Số công nhân kế hoạch
+2. Tính NSLĐ thực hiện (tương tự NSLĐ Kế hoạch)
+3. Tính mức độ thực hiện
+= (NSLĐ thực hiện / NSLĐ Kế hoạch)*100
+
+Bài 3: Mối quan hệ giữa tốc độ giảm lượng lao động hao phí và tốc độ tăng năng suất lao động
+= ((Thời gian cũ - Thời gian mới) / Thời gian mới ) x 100
+
+DẠNG 3: TIỀN LƯƠNG
+Bài 1: 
+1. Tính tiền lương tối thiểu
+
+Tiền lương bậc 1 = Tiền lương tối thiểu * Hệ số lương
+
+→ Tiền lương tối thiểu = TIền lương bậc 1 / Hệ số lương
+
+1. Tính hệ số bậc cần tìm
+
+Hệ số bậc X = Hệ số bậc trước đó (X-1) + Hệ số tăng tuyệt đối bậc X
+
+1. Tính lương bậc cần tìm
+
+= Tiền lương tối thiểu * Hệ số bậc X cần tìm
+
+## Bài 2 : Chia lương CN theo tổ
+
+1. Tính lương từng CN = (Mức lương giờ) x (Thời gian làm việc thực tế)
+2. → Tính tổng lương của các CN
+3. Tính đơn giá: 
+ct1: Đơn giá = Tổng Mức lương cấp bậc cviec (theo giờ)/ Mức sản lượng
+ct2: Đơn giá = Tổng Mức lương cấp bậc cviec (Theo giờ)/ Mức thời gian
+    
+4. Tiền lương thực tế của cả tổ = Đơn giá * Số sản phẩm
+5. Hệ số điều chỉnh k = Tiền lương thực tế của cả tổ / Tổng số lương của các CN
+6. Tính lương thực tế của từng CN = Lương từng CN * hệ số điều chỉnh k
+
+****Nếu bài cho hệ số lương, hệ số vùng, hệ số ngành***
+
+1. Tính lương từng CN = (Lương tối thiểu * Hệ số lương K * (1+Hệ số vùng + Hệ số ngành) / T
+
+⇒ T = Số ngày làm việc * Số giờ 1 ngày
